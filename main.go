@@ -10,8 +10,7 @@ import (
 	"os"
 	"path"
 	"path/filepath"
-
-	"github.com/bitlifedev/golang-auth0-example/handlers"
+	//"github.com/bitlifedev/handlers"
 )
 
 var (
